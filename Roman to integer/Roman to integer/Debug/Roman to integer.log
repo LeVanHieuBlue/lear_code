@@ -1,0 +1,4 @@
+﻿  Roman to integer.cpp
+E:\leetcode\Roman to integer\Roman to integer\Roman to integer.cpp(15,22): warning C4018: '<': signed/unsigned mismatch
+E:\leetcode\Roman to integer\Roman to integer\Roman to integer.cpp(25,30): warning C4018: '<': signed/unsigned mismatch
+  Roman to integer.vcxproj -> E:\leetcode\Roman to integer\Debug\Roman to integer.exe

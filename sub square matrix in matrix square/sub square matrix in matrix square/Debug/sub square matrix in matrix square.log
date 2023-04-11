@@ -1,0 +1,4 @@
+﻿  sub square matrix in matrix square.cpp
+E:\leetcode\sub square matrix in matrix square\sub square matrix in matrix square\sub square matrix in matrix square.cpp(14,30): warning C4018: '<': signed/unsigned mismatch
+E:\leetcode\sub square matrix in matrix square\sub square matrix in matrix square\sub square matrix in matrix square.cpp(18,27): warning C4018: '<': signed/unsigned mismatch
+  sub square matrix in matrix square.vcxproj -> E:\leetcode\sub square matrix in matrix square\Debug\sub square matrix in matrix square.exe
